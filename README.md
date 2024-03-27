@@ -1,1 +1,1 @@
-# https://mangozzang.github.io/
+# https://mangozzang.github.io
